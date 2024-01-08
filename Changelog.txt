@@ -1,0 +1,5 @@
+Changelog Project Work
+08/01/2024 Mykola Artyshchenko Python Code 1st draft
+08/01/2024 Mykola Artyshchenko Created GitHub Repository
+08/01/2024 Mykola Artyshchenko Upload proccesed DataScript.json to GitHub
+08/01/2024 Mykola Artyshchenko Creation Changelog.txt
